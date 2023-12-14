@@ -1,6 +1,6 @@
 # Skeleton project
 
-The base layer for a new Python project, including pre-commit config, a makefile for compiling dependencies and and MLP2.0 license
+The base layer for a new Python project, including pre-commit config, a makefile for compiling dependencies and and MPL2.0 license
 
 To use this project:
 
